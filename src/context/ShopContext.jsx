@@ -27,4 +27,3 @@ const ShopContextProvider = (props) =>{
 
 export default ShopContextProvider;
 
-/*2.32.00 de kaldım Search bar yapımında  https://youtu.be/7E6um7NGmeE?list=PLjwm_8O3suyOFd8LTFqgw9v7MqPNtgINA */ 
