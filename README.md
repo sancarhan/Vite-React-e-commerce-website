@@ -1,3 +1,8 @@
+#Güncelleme Anasayfa ve Outlet kısmı bitti filtreler ve kategoriler çalışıyor
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
