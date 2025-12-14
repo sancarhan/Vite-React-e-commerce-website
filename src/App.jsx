@@ -33,4 +33,4 @@ import Footer from "./components/Footer";
 
 export default App;
 
-/*1.28.35 de kaldım  https://youtu.be/7E6um7NGmeE?list=PLjwm_8O3suyOFd8LTFqgw9v7MqPNtgINA */ 
+
