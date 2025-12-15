@@ -1,4 +1,8 @@
+14/12/2025
 #Güncelleme Anasayfa ve Outlet kısmı bitti filtreler ve kategoriler çalışıyor
+15/12/2025
+#Güncelleme Outlet Sayfası Search kısmı aktif çalışıyor
+#Güncelleme Ürün Detay Sayfası Tamamlandı
 
 
 
