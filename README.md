@@ -27,6 +27,19 @@
 
 <img width="1711" height="611" alt="sepet3" src="https://github.com/user-attachments/assets/d013e5d0-7e5c-40ff-98af-0942e02eb229" />
 
+#Güncelleme Sıralama ölçütü aktif
+
+<img width="1386" height="507" alt="sıralamölçütü" src="https://github.com/user-attachments/assets/6ad3a78f-8a8c-4d08-a8e2-690524a8c249" />
+
+<img width="1346" height="500" alt="sıralama2" src="https://github.com/user-attachments/assets/15c2ee63-4bc1-41be-bc75-34fb4a3995ac" />
+
+
+#Güncelleme Filtreler aktif
+
+<img width="1669" height="902" alt="filtre" src="https://github.com/user-attachments/assets/14503670-84c3-4d32-a3f1-7cfecbdc0f79" />
+
+
+
 
 
 
