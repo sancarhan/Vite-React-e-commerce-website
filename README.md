@@ -1,11 +1,14 @@
 14/12/2025
+
 #Güncelleme Anasayfa ve Outlet kısmı bitti filtreler ve kategoriler çalışıyor
 
 15/12/2025
+
 #Güncelleme Outlet Sayfası Search kısmı aktif çalışıyor
 #Güncelleme Ürün Detay Sayfası Tamamlandı
 
 16/12/2025
+
 #Güncelleme Ürün detay kısmında beden seçmeden sepete eklenmiyor 
 
 <img width="376" height="207" alt="toastify" src="https://github.com/user-attachments/assets/23b8a8e9-e195-4131-b3de-34dabbd14b0e" />
