@@ -5,6 +5,32 @@
 #Güncelleme Outlet Sayfası Search kısmı aktif çalışıyor
 #Güncelleme Ürün Detay Sayfası Tamamlandı
 
+16/12/2025
+#Güncelleme Ürün detay kısmında beden seçmeden sepete eklenmiyor 
+
+<img width="376" height="207" alt="toastify" src="https://github.com/user-attachments/assets/23b8a8e9-e195-4131-b3de-34dabbd14b0e" />
+
+#Güncelleme Sepete ürün eklenince nav bar da sepet ikonunda kaç adet ürün olduğu görünüyor
+
+<img width="160" height="49" alt="sepet1" src="https://github.com/user-attachments/assets/64d39460-d22c-4f3c-b46b-422316ceff53" />
+
+<img width="202" height="44" alt="sepet2" src="https://github.com/user-attachments/assets/7ff8ae34-c021-4e6e-9bff-1ba2b44f2ff7" />
+
+#Güncelleme Search butonu aktif 
+
+<img width="958" height="695" alt="Arama" src="https://github.com/user-attachments/assets/b3ba677a-73e0-46f8-9f95-bd53683e04bd" />
+
+#Güncelleme Sepet kısmında ürün fiyat toplamı aktif
+
+<img width="1711" height="611" alt="sepet3" src="https://github.com/user-attachments/assets/d013e5d0-7e5c-40ff-98af-0942e02eb229" />
+
+
+
+
+
+
+
+
 
 
 
