@@ -43,6 +43,16 @@
 
 
 
+17/12/2025
+
+#Güncelleme Front-End Kısmında hatalar giderilip eksilk pageler de yapılıp tamamen bitmiştri
+-----------------------------------------------------------------------------
+
+#Güncelleme Kayıt Ol ve Giriş Yap Kısımları Bitmiştir
+-----------------------------------------------------------------------------
+
+
+
 
 
 
