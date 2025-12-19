@@ -53,7 +53,7 @@
 #Güncelleme Kayıt Ol ve Giriş Yap Kısımları Bitmiştir
 -----------------------------------------------------------------------------
 
-PROJE BACK-END KISMI İLE DEVAM EDİCEK
+PROJE BACK-END KISMI İLE DEVAM EDİCEK ( https://github.com/sancarhan/Vite-React-e-commerce-website-BACK-END )
 -----------------------------------------------------------------------------
 
 
